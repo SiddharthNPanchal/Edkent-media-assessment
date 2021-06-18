@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/edkent-media-assessment/static/css/main.26287ed8.chunk.css",
-    "main.js": "/edkent-media-assessment/static/js/main.0fca0ee4.chunk.js",
-    "main.js.map": "/edkent-media-assessment/static/js/main.0fca0ee4.chunk.js.map",
-    "runtime-main.js": "/edkent-media-assessment/static/js/runtime-main.e7c8294e.js",
-    "runtime-main.js.map": "/edkent-media-assessment/static/js/runtime-main.e7c8294e.js.map",
+    "main.js": "/edkent-media-assessment/static/js/main.72be7d9d.chunk.js",
+    "main.js.map": "/edkent-media-assessment/static/js/main.72be7d9d.chunk.js.map",
+    "runtime-main.js": "/edkent-media-assessment/static/js/runtime-main.ae502f4f.js",
+    "runtime-main.js.map": "/edkent-media-assessment/static/js/runtime-main.ae502f4f.js.map",
     "static/css/2.61b4cb56.chunk.css": "/edkent-media-assessment/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.675a044e.chunk.js": "/edkent-media-assessment/static/js/2.675a044e.chunk.js",
-    "static/js/2.675a044e.chunk.js.map": "/edkent-media-assessment/static/js/2.675a044e.chunk.js.map",
-    "static/js/3.a0337a91.chunk.js": "/edkent-media-assessment/static/js/3.a0337a91.chunk.js",
-    "static/js/3.a0337a91.chunk.js.map": "/edkent-media-assessment/static/js/3.a0337a91.chunk.js.map",
+    "static/js/2.3eff827b.chunk.js": "/edkent-media-assessment/static/js/2.3eff827b.chunk.js",
+    "static/js/2.3eff827b.chunk.js.map": "/edkent-media-assessment/static/js/2.3eff827b.chunk.js.map",
+    "static/js/3.08a9d26e.chunk.js": "/edkent-media-assessment/static/js/3.08a9d26e.chunk.js",
+    "static/js/3.08a9d26e.chunk.js.map": "/edkent-media-assessment/static/js/3.08a9d26e.chunk.js.map",
     "index.html": "/edkent-media-assessment/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/edkent-media-assessment/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.26287ed8.chunk.css.map": "/edkent-media-assessment/static/css/main.26287ed8.chunk.css.map",
-    "static/js/2.675a044e.chunk.js.LICENSE.txt": "/edkent-media-assessment/static/js/2.675a044e.chunk.js.LICENSE.txt"
+    "static/js/2.3eff827b.chunk.js.LICENSE.txt": "/edkent-media-assessment/static/js/2.3eff827b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7c8294e.js",
+    "static/js/runtime-main.ae502f4f.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.675a044e.chunk.js",
+    "static/js/2.3eff827b.chunk.js",
     "static/css/main.26287ed8.chunk.css",
-    "static/js/main.0fca0ee4.chunk.js"
+    "static/js/main.72be7d9d.chunk.js"
   ]
 }
