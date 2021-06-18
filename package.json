@@ -1,5 +1,5 @@
 {
-  "homepage": "http://SiddharthNPanchal.github.io/Edkent-media-assessment",
+  "homepage": "https://SiddharthNPanchal.github.io/Edkent-media-assessment",
   "name": "edkent_media_assessment",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^12.8.3",
     "bootstrap": "^5.0.1",
     "chart.js": "^3.3.2",
+    "gh-pages": "^3.2.2",
     "react": "^17.0.2",
     "react-bootstrap": "^1.6.1",
     "react-chartjs-2": "^3.0.3",
